@@ -1,0 +1,13 @@
+D:\LavaEngine\LavaEngineCore\bin\Release\net10.0\LavaEngineCore.deps.json
+D:\LavaEngine\LavaEngineCore\bin\Release\net10.0\LavaEngineCore.dll
+D:\LavaEngine\LavaEngineCore\bin\Release\net10.0\LavaEngineCore.pdb
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.AssemblyInfoInputs.cache
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.AssemblyInfo.cs
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.csproj.CoreCompileInputs.cache
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.dll
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\refint\LavaEngineCore.dll
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.pdb
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\ref\LavaEngineCore.dll
+D:\LavaEngine\LavaEngineCore\bin\Release\net10.0\Config.xml
+D:\LavaEngine\LavaEngineCore\obj\Release\net10.0\LavaEngineCore.csproj.AssemblyReference.cache

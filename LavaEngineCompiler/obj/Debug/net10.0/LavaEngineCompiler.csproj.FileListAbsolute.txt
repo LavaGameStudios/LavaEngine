@@ -1,0 +1,17 @@
+D:\LavaEngine\bin-debug\win-x64\LavaEngineCompiler.exe
+D:\LavaEngine\bin-debug\win-x64\LavaEngineCompiler.deps.json
+D:\LavaEngine\bin-debug\win-x64\LavaEngineCompiler.runtimeconfig.json
+D:\LavaEngine\bin-debug\win-x64\LavaEngineCompiler.dll
+D:\LavaEngine\bin-debug\win-x64\LavaEngineCompiler.pdb
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.csproj.AssemblyReference.cache
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.AssemblyInfoInputs.cache
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.AssemblyInfo.cs
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.csproj.CoreCompileInputs.cache
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngi.5F755449.Up2Date
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.dll
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\refint\LavaEngineCompiler.dll
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.pdb
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\LavaEngineCompiler.genruntimeconfig.cache
+D:\LavaEngine\LavaEngineCompiler\obj\Debug\net10.0\ref\LavaEngineCompiler.dll
+D:\LavaEngine\bin-debug\win-x64\Config.xml

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LavaProject>
+    <ProjConfiguration>
+        <ProjName>TurningCube</ProjName>
+        <RenderingAPI>Vulkan</RenderingAPI>
+        <CompilingMode>Debug</CompilingMode>
+    </ProjConfiguration>
+    <Scene>MainScene</Scene>
+</LavaProject>

@@ -1,0 +1,14 @@
+D:\LavaEngine\bin-debug\win-x64\LavaEngineScripts.deps.json
+D:\LavaEngine\bin-debug\win-x64\LavaEngineScripts.dll
+D:\LavaEngine\bin-debug\win-x64\LavaEngineScripts.pdb
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.AssemblyInfoInputs.cache
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.AssemblyInfo.cs
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.csproj.CoreCompileInputs.cache
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\refint\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.pdb
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\ref\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngineScripts.csproj.AssemblyReference.cache
+D:\LavaEngine\bin-debug\win-x64\Config.xml
+D:\LavaEngine\LavaEngineScripts\obj\Debug\net10.0\LavaEngi.63682896.Up2Date

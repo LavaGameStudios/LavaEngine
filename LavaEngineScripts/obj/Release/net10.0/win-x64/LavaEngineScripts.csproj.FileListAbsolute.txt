@@ -1,0 +1,16 @@
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\LavaEngineScripts.deps.json
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\LavaEngineScripts.pdb
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.AssemblyInfoInputs.cache
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.AssemblyInfo.cs
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.csproj.CoreCompileInputs.cache
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\refint\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.pdb
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\ref\LavaEngineScripts.dll
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\Config.xml
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\LavaEngineCore.dll
+D:\LavaEngine\LavaEngineScripts\bin\Release\net10.0\win-x64\LavaEngineCore.pdb
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngineScripts.csproj.AssemblyReference.cache
+D:\LavaEngine\LavaEngineScripts\obj\Release\net10.0\win-x64\LavaEngi.63682896.Up2Date

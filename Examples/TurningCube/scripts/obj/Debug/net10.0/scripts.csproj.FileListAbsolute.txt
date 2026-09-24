@@ -1,0 +1,13 @@
+D:\LavaEngine\Examples\TurningCube\bin\Debug\scripts.deps.json
+D:\LavaEngine\Examples\TurningCube\bin\Debug\scripts.dll
+D:\LavaEngine\Examples\TurningCube\bin\Debug\scripts.pdb
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.csproj.AssemblyReference.cache
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.AssemblyInfoInputs.cache
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.AssemblyInfo.cs
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.csproj.CoreCompileInputs.cache
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.csproj.Up2Date
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.dll
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\refint\scripts.dll
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\scripts.pdb
+D:\LavaEngine\Examples\TurningCube\scripts\obj\Debug\net10.0\ref\scripts.dll

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5jlnr+P2lA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LavaStudio\\OneDrive\\LavaEngine\\LavaEngineCore\\LavaEngineCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\costura.fody\\6.2.0\\costura.fody.6.2.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\fody\\6.9.3\\fody.6.9.3.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\imgui.net\\1.91.6.1\\imgui.net.1.91.6.1.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.9\\microsoft.extensions.dependencymodel.9.0.9.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.core\\2.23.0\\silk.net.core.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.direct3d.compilers\\2.23.0\\silk.net.direct3d.compilers.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.direct3d11\\2.23.0\\silk.net.direct3d11.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.dxgi\\2.23.0\\silk.net.dxgi.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.glfw\\2.23.0\\silk.net.glfw.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.input\\2.23.0\\silk.net.input.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.input.common\\2.23.0\\silk.net.input.common.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.input.glfw\\2.23.0\\silk.net.input.glfw.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.maths\\2.23.0\\silk.net.maths.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.opengl\\2.23.0\\silk.net.opengl.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.vulkan\\2.23.0\\silk.net.vulkan.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.webgpu\\2.23.0\\silk.net.webgpu.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.webgpu.extensions.dawn\\2.23.0\\silk.net.webgpu.extensions.dawn.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.windowing\\2.23.0\\silk.net.windowing.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.windowing.common\\2.23.0\\silk.net.windowing.common.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\silk.net.windowing.glfw\\2.23.0\\silk.net.windowing.glfw.2.23.0.nupkg.sha512",
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\ultz.native.glfw\\3.4.0\\ultz.native.glfw.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

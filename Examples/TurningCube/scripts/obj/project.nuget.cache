@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ObUXcwRMX4=",
+  "success": true,
+  "projectFilePath": "D:\\LavaEngine\\Examples\\TurningCube\\scripts\\scripts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LavaStudio\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.10\\microsoft.net.illink.tasks.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
